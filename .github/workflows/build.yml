@@ -49,4 +49,4 @@ jobs:
           platforms: linux/amd64, linux/arm64
           push: true
           tags: |
-            ghcr.io/MCCbena/pyjava:${{ matrix.tag }}
+            ghcr.io/mccbena/pyjava:${{ matrix.tag }}
