@@ -8,4 +8,4 @@ You can either pull the GitHub Registry image, `ghcr.io/zingyawesome/pyjava:<pyt
 # Changes
 ・Java update(11->17).
 
-・Change entrypoint.sh's shell from ash to bash.
+~~・Change entrypoint.sh's shell from ash to bash.
